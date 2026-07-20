@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=kosionyia&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <a href="https://github.com/kosionyia?tab=followers">
+    <img src="https://img.shields.io/github/followers/kosionyia?label=Followers&style=flat&color=2E9EF7" alt="followers" />
   </a>
 </p>
 
