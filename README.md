@@ -19,9 +19,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer building modern, performant web applications
-- 🌱 Working across the stack — from pixel-perfect UIs to robust APIs
-- ⚡ I enjoy turning ideas into fast, scalable products
+- 💻 Software Engineer | Full-Stack Developer | Next.js, TypeScript & Python
 - 📫 Reach me at: **onyiakosisochi@gmail.com**
 - 🌍 Based in: Enugu, Nigeria
 
